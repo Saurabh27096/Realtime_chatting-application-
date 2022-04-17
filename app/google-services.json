@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039238552554",
+    "project_id": "whatsapp-952aa",
+    "storage_bucket": "whatsapp-952aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039238552554:android:3a80819de311e594333093",
+        "android_client_info": {
+          "package_name": "yadav.saurabh.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039238552554-331rvc3sjqu7am8s9on2ulq2mqffasqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9207gfALmtFbdtzhD1gdfLjg0fFaIJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039238552554-331rvc3sjqu7am8s9on2ulq2mqffasqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
